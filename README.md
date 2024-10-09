@@ -52,7 +52,29 @@ This project provides detailed sales insights for different markets, customers, 
 ## Technologies Used
 
 - **Data Source:** PDF report (Sales insights data extracted and analyzed)
-- **Tools:** Power BI, Excel (Data visualization and manipulation)
+- **Tools:** Power BI, Power Query, SQL (Data visualization and manipulation)
+
+# SQL Data Analysis
+
+
+## Key Features
+
+- **Customer Records:** 
+  - Retrieve all customer records from the `customers` table.
+  - Calculate the total number of customers using the `COUNT()` function.
+
+- **Market-Specific Analysis:**
+  - Retrieve transactions for the Dhaka market (Market Code: `Mark001`).
+  - Display distinct product codes sold in Dhaka.
+  - Analyze total revenue generated in the Dhaka market for the year 2020.
+
+- **Currency-Based Transactions:**
+  - Show all transactions where the currency is in USD.
+
+- **Date-Based Analysis:**
+  - Join `transactions` with the `date` table to analyze transactions from the year 2020.
+  - Calculate total revenue generated in 2020.
+  - Calculate total revenue for January 2020.
 
 ## Conclusion
 
