@@ -1,5 +1,7 @@
 # Sales Insights Report
 
+Link-> [here](https://app.powerbi.com/view?r=eyJrIjoiNjcwOWZlNWMtYzJiMy00NGE2LTk1Y2ItNWNmOWFmZWQ2NWYwIiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D)
+
 ## Project Description
 
 This project provides detailed sales insights for different markets, customers, and branches. The goal is to analyze revenue, sales quantity, profit margins, and customer performance to better understand the key drivers of business growth. The data spans several years and covers various regions and customer types, helping stakeholders identify areas of strength and opportunities for improvement.
